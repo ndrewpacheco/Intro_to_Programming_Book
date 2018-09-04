@@ -1,0 +1,3 @@
+ex6.txt
+
+the if/else statement is missing a closing end.
