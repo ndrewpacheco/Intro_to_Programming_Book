@@ -1,0 +1,1 @@
+The first one prints 3. The other prints an error. X is only defined in the variable scope in the second case, while x is global in the first case
