@@ -1,0 +1,1 @@
+Arrays only index one item, while hashes contain key value pairs
